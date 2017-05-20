@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BottomNavigatorExample</string>
+    <string name="item_1">1</string>
+    <string name="item_2">2</string>
+    <string name="item_3">3</string>
+    <string name="item_4">4</string>
+</resources>

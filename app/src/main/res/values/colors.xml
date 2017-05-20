@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#F16664</color>
+    <color name="primary_dark">#C64845</color>
+    <color name="primary_light">#FF827F</color>
+    <color name="accent">#F36538</color>
+    <color name="primary_text">#FFDDD2</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+
+    <color name="clamor">#79CCCD</color>
+    <color name="our_river">#6BB7B9</color>
+    <color name="dull">#007D8C</color>
+    <color name="twisted_up">#FFF6E6</color>
+</resources>
